@@ -1,0 +1,4 @@
+Hello, Jake, this is what I have to say after looking through your code. I like how your GUI is set up, with bordered labels to display the average/total/etc. and the buttons
+do exactly what they are supposed to. I also noticed that rather than using the SQL code for the average and highest/lowest methods like I did, you used void methods, which is interesting to see.
+The code is documented well, with comments and variable names indicated throughout. The ascending and descending methods are very similar to how I did, using the SQL code mentioned earlier. I experienced no issues
+at all when testing your program. I have nothing else to say, you did a good job with this.
