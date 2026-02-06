@@ -1,0 +1,9 @@
+Code Review of Jake Gentry Lab 2
+
+Nicholas Chapman-Miller
+
+	The code compiles with no errors or warnings. The code is very readable and clean, I like the documentation. I think the documentation could get a little more specific with the comments on the TotalPopAverage and HighestLowest methods, just explaining how they work in simple terms. 
+
+	I could not find any bugs/software defects. No crashing no matter the user input, great job! All the buttons have shortcuts too so that is good.
+	
+	One way your solution differed from mine is that you used foreach loops to search for the highest or lowest populations. I used SQL queries in the designer in my solution since it is easier for me, but I like your application of linear searching through the rows in the table because it is more creative. I also like how you put your searching/math functions into methods so the button code is cleaner/more readable. Program is clean and works well, I have no more feedback, good job!!
